@@ -8,7 +8,7 @@
 Here are some ideas to get you started:-->
 
 - :eyeglasses: I'm a DevOps wannabe with Front-End, Mobile and Full Stack experience. Ask me about that Flutter vs React Native debate!
-- 🔭 I’m currently working on (this schooling thing)[https://www.comp.nus.edu.sg/programmes/ug/cs/] and working towards being a GCP Associate Cloud Engineer
+- 🔭 I’m currently working on [this schooling thing](https://www.comp.nus.edu.sg/programmes/ug/cs/) and working towards being a GCP Associate Cloud Engineer! Also learning some DevOps CI/CD stuff.
 - 🌱 I’m currently learning cloud computing, devops, ruby on rails... ooooh there's a butterfly!!
 - 📫 How to reach me: [Email me!](mailto:cheryl.nqj@gmail.com)
 - 😄 Pronouns: her/she (like my favourite chocolate!)
